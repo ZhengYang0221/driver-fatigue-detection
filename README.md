@@ -6,6 +6,11 @@ The system detects the driver's face, extracts deep features using a CNN, and cl
 the driver as **Awake** or **Drowsy** using a linear SVM.
 
 ## Demo
+- Detecting fatigue through yawning: https://youtu.be/n1Zj1Yj_PsY 
+- Detecting fatigue through closing eyelids: https://youtu.be/vb8B4BwHq7s  
+- Detecting fatigue through head tilt: https://youtu.be/3cA9WDugWOM
+
+Note: Wearing sunglasses only affect the closing eyelids feature during fatigue detection, yawning anad head tilt still works fine. Will add a video on it in the future.
 
 ## Methodology
 
