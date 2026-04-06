@@ -1,0 +1,19 @@
+.ipynb_checkpoints/
+__pycache__/
+
+# Model weights (can be large — regenerate by running the notebook)
+*.h5
+*.pkl
+*.pt
+*.keras
+models/
+
+# Dataset images (add locally, do not commit)
+data/
+
+images/
+eyes dataset/
+runs/
+
+# Claude Code settings (local only)
+.claude/
